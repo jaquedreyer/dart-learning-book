@@ -41,4 +41,13 @@ void main() {
 // double -> String
   String piAsString = 3.14159.toStringAsFixed(2);
   assert(piAsString == '3.14');
+
+  // int-double practice
+  double change = 23.50;
+  print(change.round()); //24
+  print(change.toInt()); //23
+
+  double negativeChange = -23.50;
+  print(negativeChange.round()); //-24
+  print(negativeChange.toInt()); //-23
 }
