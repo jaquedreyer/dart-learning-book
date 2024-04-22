@@ -3,7 +3,9 @@ class Animal {
   int idade;
   String? cor; //String ou null
 
-  Animal(this.nome, this.idade, {this.cor}); //cor e um atributo opcional
+  // Atributo opcional cor
+  // Parametros posicionais (positional parameters)
+  Animal(this.nome, this.idade, {this.cor});
 
   void comer() {
     print('O animal ${this.nome} está comendo');
@@ -12,4 +14,10 @@ class Animal {
   void falar() {
     print('O animal ${this.nome} está falando');
   }
+}
+
+void main(){
+  Animal meuCachorro = Animal('Hakeem', 5);
+  print(meuCachorro.nome); //Hakeem
+  print(meuCachorro.cor); //null
 }
