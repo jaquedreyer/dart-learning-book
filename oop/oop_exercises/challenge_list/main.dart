@@ -1,4 +1,4 @@
-import '../challenge_1.dart';
+import 'challenge_1.dart';
 
 void main() {
 // Challenge 1
