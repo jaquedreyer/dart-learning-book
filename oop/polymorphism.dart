@@ -1,3 +1,0 @@
-/* 
-Polymorphism is the ability of an object to take on many forms.
-*/
