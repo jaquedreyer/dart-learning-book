@@ -33,3 +33,8 @@ void main() {
     print("True");
   }
 }
+// Everything is public in the package, unless it's prefixed with _
+class X {
+  String publicProperty = "";
+  String _privateProperty = "";
+}
