@@ -25,3 +25,14 @@ Operators are used to perform mathematical and logical operations on the variabl
 | /=                | Divided value by a variable  |  
 | ++                | Increment a variable  |  
 | --                | Decrement a variable  |  
+
+### Assignment  operators
+
+| Operator symbol| Description  |
+| :-------------:  | -----------|
+| ==      | Equal to      | 
+| !=      | Not equal to  |   
+| >       | Greater than  | 
+| <       | Less than     |  
+| >=      | Greater than or equal to |  
+| <=      | Less than or equal to  |  
