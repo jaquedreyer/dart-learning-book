@@ -8,9 +8,9 @@ Throughout my learning journey, I'll consistently update this repository with st
 Here you can refer to the modules structured by learning area, that can be used as examples for your learning journey as well.
 
 ## Dart Basics
-- Variables and Data Types
-- Collections
-- Operators
+- [Variables and Data Types](./variables_types)
+- [Collections](/.collections)
+- [Operators](/.operators)
 - Functions
 
 ## Control Flow Statement
@@ -27,3 +27,4 @@ Here you can refer to the modules structured by learning area, that can be used 
 - OOP exercises 
 
 
+> Made with love by Jaque Dreyer 🧡
