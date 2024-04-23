@@ -36,3 +36,10 @@ Operators are used to perform mathematical and logical operations on the variabl
 | <       | Less than     |  
 | >=      | Greater than or equal to |  
 | <=      | Less than or equal to  |  
+
+### Logical  operators
+| Operator symbol| Description  |
+| :-------------:  | -----------|
+| &&      | This is ‘and’, return true if all conditions are true | 
+| 11     | This is ‘or’. Return true if one of the conditions is true  |   
+| !       | This is ’not’. return false if the result is true and vice versa  | 
