@@ -1,6 +1,6 @@
 # Operators
 
-Operators are used to perform mathematical and logical operations on the variables. 
+Operators are symbols or keywords used to perform operations on values. There are several types of operators available in Flutter.  
 
 ### Arithmetic Operators
 

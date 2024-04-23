@@ -32,5 +32,4 @@ void main() {
   // Using logical NOT operator (!)
    bool resultFalse = !true; // false
    print(resultFalse);
-
 }
