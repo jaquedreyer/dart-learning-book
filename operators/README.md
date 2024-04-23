@@ -12,4 +12,4 @@ Operators are used to perform mathematical and logical operations on the variabl
 | *                | Multiplication     | 
 | /                | Division     |   
 | ~/               | Division, returning an integer result     | 
-| /                | Get the remainder of an integer division (modulo)     |   
+| %                | Get the remainder of an integer division (modulo)     |   
