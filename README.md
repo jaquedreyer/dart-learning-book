@@ -9,8 +9,8 @@ Here you can refer to the modules structured by learning area, that can be used 
 
 ## Dart Basics
 - [Variables and Data Types](./variables_types)
-- [Collections](/.collections)
-- [Operators](/.operators)
+- [Collections](collections)
+- [Operators](operators)
 - Functions
 
 ## Control Flow Statement
