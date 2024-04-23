@@ -28,4 +28,9 @@ void main() {
   } else {
     print("Both conditions are false");
   }
+
+  // Using logical NOT operator (!)
+   bool resultFalse = !true; // false
+   print(resultFalse);
+
 }
