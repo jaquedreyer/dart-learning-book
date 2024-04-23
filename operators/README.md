@@ -26,7 +26,7 @@ Operators are used to perform mathematical and logical operations on the variabl
 | ++                | Increment a variable  |  
 | --                | Decrement a variable  |  
 
-### Assignment  operators
+### Relational  operators
 
 | Operator symbol| Description  |
 | :-------------:  | -----------|
