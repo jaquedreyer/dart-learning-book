@@ -8,7 +8,7 @@ Dart is a object-oriented language, so functions are also objects and have a typ
 - It makes debugging easier.
 
 ## Syntax
-
+![function_image_jaque](https://github.com/jaquedreyer/dart-learning-book/assets/107557946/8669ed6d-1681-449e-82af-e6e853b01f76)
 
 ps: lowerCamelCase naming convention is used for naming a function and parameters. Examples: isMarried, numA. 
 
