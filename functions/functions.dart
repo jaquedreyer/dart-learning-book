@@ -24,6 +24,14 @@ void main() {
     print(isActive);
   }
 
+// Wrap with [] marks them as optional positional parameters.
+// If you don't provide a default value, their types must be nullable
+  printCustomerB(String name, double balance, [bool? isActive]) {
+    print(name);
+    print(balance);
+    print(isActive);
+  }
+
 // Named arguments (all of them or partial)
 // {named arguments are optional by default} if I want it to be mandatory use {required ...}
 // As they are named I can use in any order when Im calling them
