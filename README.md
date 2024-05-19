@@ -11,7 +11,7 @@ Here you can refer to the modules structured by learning area, that can be used 
 - [Variables and Data Types](./variables_types)
 - [Collections](collections)
 - [Operators](operators)
-- Functions
+- [Functions](functions)
 
 ## Control Flow Statement
 - Conditionals
