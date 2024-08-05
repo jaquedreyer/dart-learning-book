@@ -1,6 +1,6 @@
 /*
-Decision-making statements help determine which block of statements to execute 
-based on a given condition or expression (if is TRUE or FALSE).
+The if-case statement provides a way to match and destructure against a single pattern
+To test a value against multiple patterns, use switch-case
 */
 
 void main(){
@@ -18,4 +18,10 @@ var age = 16;
     print('You are eligible for voting');  
  } print('You are not eligible for voting');   
 
+// The list pattern [int x, int y] is a single pattern and in this case matches the value pair
+  if (pair case [int x, int y]) {
+    print('Was coordinate array $x,$y');
+  } else {
+    throw FormatException('Invalid coordinates.');
+  }
 }  
