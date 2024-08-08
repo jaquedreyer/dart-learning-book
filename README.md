@@ -14,8 +14,8 @@ Here you can refer to the modules structured by learning area, that can be used 
 - [Functions](functions)
 
 ## Control Flow Statement
-- Conditionals
-- Loops
+- [Conditionals](conditionals)
+- [Loops](loops)
 
 ## OOP
 - Classes
