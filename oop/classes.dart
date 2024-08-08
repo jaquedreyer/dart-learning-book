@@ -1,5 +1,6 @@
 /* Classes
 Full support for OOP
+A class contains attributes (can be variables) and behavior/methods (can be functions)
 Private properties start with _
 */
 
@@ -23,7 +24,8 @@ class Request {
   }
 }
 
-// Named parameters
+// Named parameters (required)
+// The final keyword is used to declare attributes that can only be assigned once, ensuring code safety and persistence, preventing bugs
 class Student {
   final int age;
   final String name;
@@ -33,7 +35,8 @@ class Student {
 }
 
 void main() {
-  // Now you can create a new object using the constructor
+  // Now you can create a new object using the constructor =
+  // Creating an instance of Student
   Student Jaque =
       Student(age: 31, name: 'Jaqueline', address: 'Avenida x, Brazil');
   print(Jaque.address);
