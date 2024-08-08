@@ -25,6 +25,6 @@ void main() {
   Animal meuCachorro =
       Animal(nome: 'Hakeem', dataDeNascimento: DateTime.parse('2019-10-02'));
   print(
-      'A idade do meu pet é: ${meuCachorro._calcularIdade()} anos'); //estou conseguindo acessar mesmo assim! perguntar lua
+      'A idade do meu pet é: ${meuCachorro._calcularIdade()} anos');
   print('A idade do meu pet é: ${meuCachorro.idade} anos'); //só pode ser acessado dentro da própria classe Animal
 }
