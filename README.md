@@ -24,7 +24,7 @@ Here you can refer to the modules structured by learning area, that can be used 
 - Encapsulation
 - Polymorphism
 - Interface, mixin
-- OOP exercises 
+- [OOP exercises](oop/oop_exercises) 
 
 
 > Made with love by Jaque Dreyer 🧡
