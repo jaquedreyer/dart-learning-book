@@ -18,8 +18,8 @@ Here you can refer to the modules structured by learning area, that can be used 
 - [Loops](loops)
 
 ## OOP
-- Classes
-- Objects
+- [Classes](oop)
+- [Objects](oop)
 - [Constructors](oop)
 - Encapsulation
 - Polymorphism
